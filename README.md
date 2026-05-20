@@ -39,11 +39,6 @@ To build a sales forecasting model that helps businesses predict future sales an
 ### Sales Trend
 ![Sales Trend](sales_trend.png)
 
-### Prediction Graph
-![Prediction](prediction_graph.png)
-
----
-
 ## 🔮 Future Prediction
 The model is used to forecast future sales based on past trends.
 
